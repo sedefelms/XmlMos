@@ -1,0 +1,37 @@
+crn Equipment=1,FieldReplaceableUnit=RRU-1
+administrativeState 1
+isSharedWithExternalMe false
+positionCoordinates 
+positionInformation 
+positionRef 
+userLabel Yupana
+end
+
+ld Equipment=1,FieldReplaceableUnit=RRU-1,EnergyMeter=1 #SystemCreated
+
+crn Equipment=1,FieldReplaceableUnit=RRU-1,RfPort=A
+administrativeState 1
+antennaSupervisionActive false
+automaticYupanarecovery true
+pimdAlarmActive false
+pimdMeasDuration 1
+pimdThreshold 300
+userLabel Yupana
+vswrSupervisionActive true
+vswrSupervisionSensitivity 49
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

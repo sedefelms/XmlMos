@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary:AutoIntegrationRbsSummaryFile xmlns:summary="http://www.ericsson.se/RbsSummaryFileSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ericsson.se/RbsSummaryFileSchemaSummaryFile.xsd">
+    <Format revision="F" />
+    <ConfigurationFiles  initialSecurityConfigurationFilePath="03_ENM1_ossNodeProtocol.xml"
+    										 upgradePackageFilePath="Baseband_Radio_Node_Yupana_Ip_1_R33H26" 
+    										 siteEquipmentFilePath="02_SiteEquipment.xml" 
+    										 siteBasicFilePath="01_SiteBasic.xml" />
+</summary:AutoIntegrationRbsSummaryFile>
+
+
+
